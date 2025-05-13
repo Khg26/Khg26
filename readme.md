@@ -13,11 +13,45 @@ Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreter
 - 🌐 Açık kaynak projelere katkı  
 - 🔧 Git, GitHub, VS Code gibi araçlarla versiyon kontrolü ve geliştirme
 
+## 📂 Öne Çıkan Projeler
+
+- 🔐 [CTF-Notları](https://github.com/Khg26/ctf-notlari)  
+- 🌍 [Web Güvenlik Eğitim Uygulaması](https://github.com/Khg26/web-security-labs)
+
+## 📚 Eğitimler & Sertifikalar
+
+- BTK Akademi - Siber Güvenlik Giriş Eğitimi  
+- Google - Python ile Programlamaya Giriş  
+- TryHackMe - Introduction to Cyber Security _(Devam Ediyor)_
+
+## 🛠️ Kullandığım Teknolojiler
+
+### 💻 Programlama Dilleri  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🖥️ İşletim Sistemleri & Araçlar  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+### 🛠️ Geliştirme Araçları  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub İstatistikleri
+
+![Kemal Hazal GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khg26&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khg26&layout=compact&theme=radical)
+
 ## 🎯 Hedefim
 
 Sürekli öğrenmeye açık, analitik düşünen ve üretmeye istekli biri olarak; teknoloji, güvenlik ve toplumsal fayda kesişiminde değer yaratmayı amaçlıyorum.
 
 ---
 
-📫 Bana ulaşmak istersen: khgorkem@gmail.com 
-🔗 LinkedIn: www.linkedin.com/in/khgorkem
+📫 Bana ulaşmak istersen: **khgorkem@gmail.com**  
+🔗 LinkedIn: **www.linkedin.com/in/khgorkem**
