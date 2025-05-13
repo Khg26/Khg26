@@ -42,10 +42,6 @@ Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreter
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub İstatistikleri
-
-![Kemal Hazal GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khg26&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khg26&layout=compact&theme=radical)
 
 ## 🎯 Hedefim
 
