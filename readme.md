@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Adınız]
+# 👋 Merhaba, ben Kemal Hazal
 
 Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreteri olarak görev aldım. Bu süreçte proje ve program koordinasyonu, toplumsal fayda odaklı organizasyonlar ve etkin ekip yönetimi konularında kapsamlı deneyim kazandım. Ayrıca veri yönetimi, dijital iletişim ve sosyal medya stratejileri üzerine aktif olarak çalıştım.
 
@@ -19,5 +19,5 @@ Sürekli öğrenmeye açık, analitik düşünen ve üretmeye istekli biri olara
 
 ---
 
-📫 Bana ulaşmak istersen: [khgorkem@gmail.com] 
-🔗 LinkedIn: [www.linkedin.com/in/khgorkem]
+📫 Bana ulaşmak istersen: khgorkem@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/khgorkem
