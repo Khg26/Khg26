@@ -20,7 +20,7 @@ Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreter
 
 ## 📚 Eğitimler & Sertifikalar
 
-- BTK Akademi - Siber Güvenlik Giriş Eğitimi  
+- [Adli Bilisim Egitimi Sertifikası](https://github.com/Khg26/Khg26/blob/af23e89c827484cdfc6e995cf5e6f8bd7a3f36c9/25774272286_adlibilisimegitimisertifikasi.pdf)
 - Google - Python ile Programlamaya Giriş  
 - TryHackMe - Introduction to Cyber Security _(Devam Ediyor)_
 
