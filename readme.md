@@ -9,14 +9,8 @@ Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreter
 - 🐍 Python ile yazılım geliştirme  
 - 🛡️ Ağ güvenliği, penetrasyon testleri ve temel kriptografi  
 - 🐧 Linux sistemleri üzerinde çalışma  
-- 🧠 CTF platformlarında aktif pratik  
 - 🌐 Açık kaynak projelere katkı  
 - 🔧 Git, GitHub, VS Code gibi araçlarla versiyon kontrolü ve geliştirme
-
-## 📂 Öne Çıkan Projeler
-
-- 🔐 [CTF-Notları](https://github.com/Khg26/ctf-notlari)  
-- 🌍 [Web Güvenlik Eğitim Uygulaması](https://github.com/Khg26/web-security-labs)
 
 ## 📚 Eğitimler & Sertifikalar
 
@@ -35,8 +29,7 @@ Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreter
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🖥️ İşletim Sistemleri & Araçlar  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)    
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### 🛠️ Geliştirme Araçları  
