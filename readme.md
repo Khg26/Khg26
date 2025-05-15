@@ -23,7 +23,7 @@ Beş yılı aşkın süre Bandırma Belediyesi’nde Kent Konseyi Genel Sekreter
 - [Adli Bilisim Egitimi Sertifikası](https://github.com/Khg26/Khg26/blob/ceabd92ceb3f29fc3e85c8bf8fe5e1cbff10a1d4/25774272286_adlibilisimegitimisertifikasi.pdf.jpg)
 - [Etik Hacker Egitimi Sertifikası](https://github.com/Khg26/Khg26/blob/c89c0c3042871dc22a8d8ccae218be22d9d37109/25774272286_etikhackeregitimisertifikasi.pdf.jpg)
 - [Siber Güvenlik Uzmanlığı Egitimi Sertifikası](https://github.com/Khg26/Khg26/blob/c89c0c3042871dc22a8d8ccae218be22d9d37109/25774272286_siberguvenlikuzmanligisertifikasi.pdf.jpg)
-- [Siber Suçlar Uzmanlığı Sertifikası](]https://github.com/Khg26/Khg26/blob/c89c0c3042871dc22a8d8ccae218be22d9d37109/25774272286_sibersuclaruzmanligisertifikasi.pdf.jpg)
+- [Siber Suçlar Uzmanlığı Sertifikası](https://github.com/Khg26/Khg26/blob/c89c0c3042871dc22a8d8ccae218be22d9d37109/25774272286_sibersuclaruzmanligisertifikasi.pdf.jpg)
 - [Robotik Kodlama Eğitmen Sertifka Proramı](https://github.com/Khg26/Khg26/blob/c89c0c3042871dc22a8d8ccae218be22d9d37109/istanbul-universitesi-sertifika-sorgulama.pdf.jpg)
 
 ## 🛠️ Kullandığım Teknolojiler
